@@ -1,0 +1,5 @@
+cfscrape
+gpsphoto
+terminaltables
+colored
+msedge-selenium-tools selenium==3.141
